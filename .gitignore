@@ -1,0 +1,9 @@
+# Rahasia (password WiFi, akun perangkat) JANGAN di-upload
+esp32/**/secrets.h
+wokwi/secrets.h
+# Hasil build Arduino
+esp32/**/build/
+*.elf
+*.map
+Thumbs.db
+.DS_Store
